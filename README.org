@@ -1,0 +1,10 @@
+* cl-djula-svg
+
+Handle SVGs in Djula templates
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rajasegar/cl-djula-svg.git   |
+| commit  | {"messa  |
+| systems | cl-djula-svg |
+|---------+-------------------------------------------|
+
