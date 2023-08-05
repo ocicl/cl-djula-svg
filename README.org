@@ -4,7 +4,7 @@ Handle SVGs in Djula templates
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/rajasegar/cl-djula-svg.git   |
-| commit  | {"messa  |
+| commit  | 18c91ff  |
 | systems | cl-djula-svg |
 |---------+-------------------------------------------|
 
