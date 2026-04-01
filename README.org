@@ -8,3 +8,4 @@ Handle SVGs in Djula templates
 | systems | cl-djula-svg |
 |---------+-------------------------------------------|
 
+ 
